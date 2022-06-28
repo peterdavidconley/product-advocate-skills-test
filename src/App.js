@@ -26,8 +26,12 @@ function App() {
           2. Reflection on past experience:	
     
           a. In your next role, what are you looking to learn or do more of?
+	  
+	  Become more technically advanced and a better writer.
 							
           b. Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide             the link)
+	
+	  Scott Adam's "The Day You Became A Better Writer" - https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
 			
          </p>
          <p>
@@ -44,12 +48,15 @@ function App() {
           Please include one email response for each inquiry, just as if you were responding to a customer.
 							
           Sales Inquiry: Do I need Enterprise?
-            
           Subject: Sales Lead for barnesandnoble.com
           Name: Joe Fox
           Employees: 1000+
             
           How can we help you: New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about             the Enterprise option.
+	  
+	  --> Hello Joe, 
+	  
+	  I'd be happy to assist you with this inquiry. It seems like your company is +1,000 employees and you're considering signing up for our Enterprise 	      product?
 
           Sales Inquiry: Would Pro or Enterprise fit better for my team? 
           Subject: Sales Lead for hipcamp.com
@@ -63,11 +70,19 @@ function App() {
          							
           5. Your personal recommendations:
           When it comes to looking for a solution for hosting your Next.js site, what are some of the common things
-
-          you would value as the Engineering Manager for:
+	  you would value as the Engineering Manager for:
+	  
           1. A mom and pop business?
+		  
+		  Ease of use, conveying messages to customers properly, robustness (least likely to break)
+		  
           2. An NFT?
+		  
+		  Compatibility with multiple blockchains, APIs, and marketplaces to ensure greatest chance at sale.
+		  
           3. A Marketing Page for a large corporation like Nintendo?
+		  
+		  SEO, Customization, and Analytics.
 
          </p>
       </header>
