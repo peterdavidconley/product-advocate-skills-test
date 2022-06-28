@@ -38,6 +38,8 @@ function App() {
          3. Using Next.js
   
          Add a temporary redirect to your Next/Vercel project
+  
+         I chose the "Create React App" template to use in order to answer these questions, and not Next.js, hence no redirect.
 							
          Add a temporary in-app redirect to your project by redirecting /hello-vercel (or any path – but be sure to tell us which!) to https://vercel.com
 
