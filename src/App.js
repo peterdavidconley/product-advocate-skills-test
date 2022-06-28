@@ -54,16 +54,24 @@ function App() {
             
           How can we help you: New site launching soon using Next.js and we are thinking about using Vercel to host. I would like more information about             the Enterprise option.
 	  
-	  --> Hello Joe, 
+	  Hello Mr. Fox, 
 	  
-	  I'd be happy to assist you with this inquiry. It seems like your company is +1,000 employees and you're considering signing up for our Enterprise 	      product?
+	  I'd be happy to assist you with this inquiry. It seems like your company is +1,000 employees and you're considering signing up for our Enterprise 	      product? Based on your companies size and the amount of traffic barnesandnoble.com gets the Enterprise option would be a great choice. The 	   dedicated support manager feature you'd get with that option would ensure quick fixes and top tier communication. Your database would built on 	    isolated infrastructure, ensuring it could handle high traffic and no issues would arise from other clients. 
+	  
+	  I would like to schedule a demo to show you how these features can help your business. What is your availibilty like this week?
 
           Sales Inquiry: Would Pro or Enterprise fit better for my team? 
           Subject: Sales Lead for hipcamp.com
           Name: Melissa Wright
           Employees: 10-100
 
-          How can we help you: We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or                     Enterprise would fit out needs better. Timeline is Q3. Can you help?	
+          How can we help you: We are looking to re-platform our site and are considering Vercel. Would like to evaluate options to see if Pro or                   Enterprise would fit out needs better. Timeline is Q3. Can you help?
+		  
+	  Hello Melissa, 
+		  
+	  I would love to be able to help to find you the ideal solution by Q3, which is plenty of time. With our pro version, you have access to a 14-day 	     free trial via this link: https://vercel.com/signup?next=/dashboard?createTeam=true. If you'd like, I can also schedule a demo with you to 	  answer any questions you may have in real time. 
+	  
+	  Let's start with the Pro option, then if your needs seem greater than that, we can discuss and review the enterprise option. 
             
          </p>
          <p>
